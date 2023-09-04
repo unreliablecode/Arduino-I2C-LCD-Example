@@ -23,7 +23,7 @@ This Arduino sketch demonstrates how to use an I2C-enabled LCD display with an A
 ### Installation
 
 1. Clone or download this repository to your local machine.
-2. Open the Arduino IDE and load the `I2C_LCD_Example.ino` sketch from the repository.
+2. Open the Arduino IDE and load the `main.ino` sketch from the repository.
 3. Upload the sketch to your Arduino board.
 
 ### Usage
@@ -39,7 +39,7 @@ If you encounter any issues, make sure to double-check your wiring connections a
 
 ## Author
 
-- [Your Name]
+- [unreliablecode]
 
 ## License
 
